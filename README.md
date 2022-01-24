@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Arejano</h1>
-- 🔭 I’m currently working on **Zeeng Data Driven**
+- 🔭 I’m currently working on **Impulso Network**
 
-- 🌱 I’m currently learning **Vue,React,Angular, Svelte and RUST**
+- 🌱 I’m currently learning **Remix and RUST**
 
 - 📫 How to reach me **gustavo.arejano@gmail.com**
 
